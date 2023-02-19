@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\bin\Debug\net6.0\myNewProject.exe
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\bin\Debug\net6.0\myNewProject.deps.json
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\bin\Debug\net6.0\myNewProject.runtimeconfig.json
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\bin\Debug\net6.0\myNewProject.dll
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\bin\Debug\net6.0\myNewProject.pdb
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.dll
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\refint\myNewProject.dll
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.pdb
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\myNewProject.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\My Projects\myNewProject\myNewProject\obj\Debug\net6.0\ref\myNewProject.dll
